@@ -58,7 +58,7 @@ h2 {
 }
 #arrow button.material-symbols-outlined {
     position:relative;
-    border:10px solid blue; color:red; font-size:4rem;
+    border:2px solid blue; color:red; font-size:4rem;
 }
 
 /*******큰 기계장치에서 적용됨 (최소넓이:1024픽셀) 1024부터 점점 커질때 모두 적용 ********/
